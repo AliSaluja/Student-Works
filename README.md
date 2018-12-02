@@ -4,3 +4,4 @@ Sorry, but at this github repository you will not found some form code of good p
 # What will you found at here?
 * [/algorithms](https://github.com/Foxfale/Student-Works/tree/master/Algorithms) - my realisation of one or another algorithms.
 * [/cs50](https://github.com/Foxfale/Student-Works/tree/master/CS50) - my realisation of home work at CS50 course.
+* [/Clean Python -exercise](https://github.com/binxpy/Student-Works/tree/master/Clean%20Python%20-exercise) - realisation of exersice what writed in book "Clean Python".
